@@ -1,0 +1,6 @@
+{
+  "name": "Mount Holly Safe Ledger",
+  "description": "Calculate the exact terminal date, numeric code, and unlock time for the Shelter Time-Lock Safe in Blue Prince from your current in-game day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
